@@ -13,4 +13,4 @@
 
 postmanapi
 
-https://documenter.getpostman.com/view/38563958/2sAYBREYX2
+https://web.postman.co/workspace/7942ad64-bc2d-4b63-84f8-e2e9a9c073a8/documentation/38563958-c3f18b06-02ea-452a-8749-4078f8fcb261?entity=folder-b4a2b48a-1cbd-4a06-98d7-836ec44ec866
